@@ -1,0 +1,7 @@
+﻿  DoubleSort.cpp
+c:\users\iailil\source\repos\doublesort\doublesort\doublesort.cpp(27): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\iailil\source\repos\doublesort\doublesort\doublesort.cpp(29): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\iailil\source\repos\doublesort\doublesort\doublesort.cpp(40): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\iailil\source\repos\doublesort\doublesort\doublesort.cpp(42): warning C4018: <: несоответствие типов со знаком и без знака
+c:\users\iailil\source\repos\doublesort\doublesort\doublesort.cpp(69): warning C4018: <: несоответствие типов со знаком и без знака
+  DoubleSort.vcxproj -> C:\Users\iailil\source\repos\DoubleSort\DoubleSort\Debug\DoubleSort.exe
